@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+.logo {
+    float: left;
+}
+
+.right-nav {
+    float: right;
+}
